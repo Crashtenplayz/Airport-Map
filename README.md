@@ -12,6 +12,9 @@ All Airports Map is a desktop application that provides detailed information on 
   - **OpenStreetMap Carto Light** (ODbL 1.0) – attribution required.
   - **Esri Satellite imagery** – proprietary, cannot be redistributed.
 - All airport data saved locally as JSON for offline use.
+- Includes Military, Public, and Private Airports
+- Displays N/A when no item is available
+- Added search functionality
 
 ## 💾 Installation
 
