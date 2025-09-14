@@ -45,6 +45,7 @@ The code, application, and airport JSON data (collected from Wikipedia) are lice
 
 - This project is for **non-commercial use only**.
 - Modifications and derivatives are allowed under the same license (CC BY 4.0).
+- All items will be open-source starting from version 1.0.0 for a better experience (Sorry for your inconvenience)
 
 ## 💡 Contributions
 
