@@ -46,7 +46,7 @@ The code, application, and airport JSON data (collected from Wikipedia) are lice
 ## 💡 Contributions
 
 - Contributions are welcome! Please fork the repository, make your changes, and submit a pull request. Only contributions that respect the licensing terms of third-party data will be accepted.
-- Help us improve the Airport Suggestion Map by sharing your ideas and contributing airport information at https://suggestairportmap.wasmer.app 
+- Help us improve the Airport Suggestion Map by sharing your ideas and contributing airport information at [https://suggestairportmap.wasmer.app](https://suggestairportmap.wasmer.app) 
 . Suggest new airports, propose updates to existing ones, or provide helpful details to make the map more complete and useful for everyone!
 
 ## 📬 Contact
